@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brianbellini/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css",
+    "main.js": "/brianbellini/project-4-assessment.git/static/js/main.60c2c164.chunk.js",
+    "main.js.map": "/brianbellini/project-4-assessment.git/static/js/main.60c2c164.chunk.js.map",
+    "runtime-main.js": "/brianbellini/project-4-assessment.git/static/js/runtime-main.8703f293.js",
+    "runtime-main.js.map": "/brianbellini/project-4-assessment.git/static/js/runtime-main.8703f293.js.map",
+    "static/js/2.36c0ca1e.chunk.js": "/brianbellini/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js",
+    "static/js/2.36c0ca1e.chunk.js.map": "/brianbellini/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.map",
+    "index.html": "/brianbellini/project-4-assessment.git/index.html",
+    "precache-manifest.47afe608d1adc3611d3ced036e8f55ea.js": "/brianbellini/project-4-assessment.git/precache-manifest.47afe608d1adc3611d3ced036e8f55ea.js",
+    "service-worker.js": "/brianbellini/project-4-assessment.git/service-worker.js",
+    "static/css/main.2ddb3bd6.chunk.css.map": "/brianbellini/project-4-assessment.git/static/css/main.2ddb3bd6.chunk.css.map",
+    "static/js/2.36c0ca1e.chunk.js.LICENSE.txt": "/brianbellini/project-4-assessment.git/static/js/2.36c0ca1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8703f293.js",
+    "static/js/2.36c0ca1e.chunk.js",
+    "static/css/main.2ddb3bd6.chunk.css",
+    "static/js/main.60c2c164.chunk.js"
+  ]
+}
